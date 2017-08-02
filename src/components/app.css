@@ -1,0 +1,27 @@
+.App-logo {
+  float: right;
+  height: 60px;
+}
+
+.App-header {
+  padding: 20px;
+  background-color: #379683;
+}
+  .App-header h1 {
+    display: inline;
+    text-align: left;
+    font-size: 50px;
+    font-weight: 800;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 10px;
+  }
+  .App-header h3 {
+    text-align: left;
+    font-size: 20px;
+    font-weight: 800;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 5px;
+    letter-spacing: 2px;
+  }
